@@ -29,4 +29,5 @@ for ( i in 1:length(a)){
 }
 
 #Estas columnas deberemos organizarlas en un data.frame con los nombres de columnas correspondientes
-#al script base.r
+#al script base.r. El archivo "interventions_template.csv" puede servir de guia para conocer la forma
+#de dicho archivo.
